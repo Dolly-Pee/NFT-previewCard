@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://dolly-pee.github.io/NFT-previewCard/)
+- Live Site URL: (https://dolly-pee.github.io/NFT-previewCard/)
 
 ## My process
 
@@ -81,7 +81,7 @@ I want to focus on JavaScript and React js.
 
 ## Author
 
-- Website - [Dolly-Pee]()
+- Website - (https://dolly-pee.github.io/NFT-previewCard/)
 - Frontend Mentor - [@Dolly-Pee](https://www.frontendmentor.io/profile/Dolly-Pee)
 - Twitter - [@precimyte](https://www.twitter.com/precimyte)
 
